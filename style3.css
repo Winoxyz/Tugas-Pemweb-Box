@@ -1,0 +1,50 @@
+.container1{
+    display: flex;
+}
+   
+.kuning{
+    height: 70px;
+    width: 20%;
+    background-color: yellow;
+    margin: 5px;
+}
+   
+.oren{
+    height: 70px;
+    width: 80%;
+    background-color: orange;
+    margin: 5px;
+}
+   
+.container2{
+    display: flex;
+}
+   
+.hijau{
+    height: 450px;
+    width: 20%;
+    background-color: yellowgreen;
+    margin: 5px;
+}
+   
+.abu{
+    height: 450px;
+    width: 60%;
+    background-color: gray;
+    margin: 5px; 
+}
+   
+.biru{
+    height: 450px;
+    width: 20%;
+    background-color: aqua;
+    margin: 5px;
+}
+   
+.bawah{
+    height: 70px;
+    width: 1340px;
+    background-color: blue;
+    margin: 5px;
+}
+   
